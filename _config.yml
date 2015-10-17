@@ -1,7 +1,7 @@
 # Site settings
 description: Stuff of interest to me and perhaps others
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.arwhyte.org"
+url: "http://www.arwhyte.org"
 # url: "http://localhost:3000" # the base hostname & protocol for your site
 
 # User settings
